@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "fs-extra": "^11.2.0",
+    "get-port": "^7.0.0",
+    "playwright": "^1.41.2",
+    "pm2": "^5.3.1",
+    "web-ext": "^7.11.0"
+  },
+  "name": "auto_click",
+  "version": "1.0.0",
+  "main": "src/serpclix.js",
+  "author": "Hue Liu",
+  "license": "MIT",
+  "private": true,
+  "type": "module"
+}
